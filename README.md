@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+## This is the beginning of my learn 2 cloud journey, Let's get active.
 <!--
 **Jrestama/Jrestama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
